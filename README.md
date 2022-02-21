@@ -1,2 +1,2 @@
-# OLMS
+# olms
 Online Library Management System
